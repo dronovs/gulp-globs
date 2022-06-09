@@ -1,0 +1,23 @@
+{
+  "name": "gulp-globs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dronovs/gulp-globs.git"
+  },
+  "keywords": [
+    "gulp",
+    "globs"
+  ],
+  "author": "Serhii Dronov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dronovs/gulp-globs/issues"
+  },
+  "homepage": "https://github.com/dronovs/gulp-globs#readme"
+}
