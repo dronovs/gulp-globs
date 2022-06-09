@@ -1,7 +1,7 @@
 {
   "name": "gulp-globs",
   "version": "1.0.0",
-  "description": "",
+  "description": "gulp learning",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "gulp",
-    "globs"
+    "globs",
+    "learning"
   ],
   "author": "Serhii Dronov",
   "license": "ISC",
